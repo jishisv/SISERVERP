@@ -1,5 +1,11 @@
-/inventario-si/target/*
-/inventario-si-dao/target/*
-/inventario-si-model/target/*
-/inventario-si-service/target/*
-/inventario-si-web/target/*
+inventario-si-dao/target/*
+inventario-si-dao/target/surefire-reports/*
+inventario-si-dao/target/maven-archiver/*
+inventario-si-model/target/*
+inventario-si-model/target/surefire-reports/*
+inventario-si-model/target/maven-archiver/*
+inventario-si-service/target/*
+inventario-si-service/target/surefire-reports/*
+inventario-si-service/target/maven-archiver/*
+inventario-si-web/target/*
+
