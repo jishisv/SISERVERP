@@ -21,17 +21,5 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>repository.org.hibernate</groupId>
-      <artifactId>hibernate</artifactId>
-      <version>3.2.6.ga</version>
-      <type>jar</type>
-    </dependency>
-    <dependency>
-      <groupId>repository.org.springframework</groupId>
-      <artifactId>spring-beans</artifactId>
-      <version>2.5.1</version>
-      <type>jar</type>
-    </dependency>
   </dependencies>
 </project>
